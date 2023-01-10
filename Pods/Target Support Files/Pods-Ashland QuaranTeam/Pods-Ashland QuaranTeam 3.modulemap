@@ -1,0 +1,6 @@
+framework module Pods_Ashland_QuaranTeam {
+  umbrella header "Pods-Ashland QuaranTeam-umbrella.h"
+
+  export *
+  module * { export * }
+}
