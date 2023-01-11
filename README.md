@@ -23,4 +23,4 @@ Local Citizens Can:
 
 ### Working Screenshots
 
-![alt text](https://github.com/riverray121/Ashland-QuaranTeam/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/riverray121/Ashland-QuaranTeam/blob/main/Home%20Page.png?raw=true)
